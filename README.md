@@ -13,3 +13,4 @@ Sample website with plenty of files for demos
 ## How to contribute 
 
 ## Deployment
+Deploying to Kuwaitt YaaY!!
