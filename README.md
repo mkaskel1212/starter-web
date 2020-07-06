@@ -12,5 +12,7 @@ Sample website with plenty of files for demos
 
 ## How to contribute 
 
+You can edit more codes if you would like. Yay Yay Yay
+
 ## Deployment
 Deploying to Kuwaitt YaaY!!
