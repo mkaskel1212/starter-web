@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Moo KAskel moo.kaskel@gmail.com
 
 # THANKS
 

@@ -17,3 +17,6 @@ Please folk this reository and issue pull request
 
 ## Deployment
 Deploying to Kuwaitt YaaY!!
+
+## Copy Right
+Copy Right 2020 Git Training
