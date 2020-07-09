@@ -16,3 +16,6 @@ You can edit more codes if you would like. Yay Yay Yay
 
 ## Deployment
 Deploying to Kuwaitt YaaY!!
+
+## Copy Right
+Copy Right 2020 Git Training
